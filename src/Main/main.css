@@ -1,0 +1,38 @@
+.sides{
+    display: flex;
+    background-color: rgb(244, 240, 244);
+    padding-bottom: 100%;
+}
+
+.leftside{
+    margin-top: 50px;
+    margin-left: 100px;
+}
+
+.rightside{
+    margin-top: 110px;
+    margin-right: 100px;
+    margin-left: 50px;
+}
+
+.text{
+    margin-top: 50px;
+    color: rgb(116, 116, 116);
+    font-weight: 400;
+}
+
+.btn{
+    padding: 10px;
+    border: none;
+    background-color: rgb(187, 224, 93);
+    border-radius: 30px;
+    font-weight: 600;
+    width: 30%;
+    margin-top: 5px;
+    box-shadow:0 0 15px 4px rgba(0,0,0,0.06);
+}
+
+.btn a{
+    text-decoration: none;
+    color: black;
+}

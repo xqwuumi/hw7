@@ -1,0 +1,44 @@
+.inp{
+    background-color: rgb(244, 240, 244);
+    padding-bottom: 100%;
+    padding-top: 10px;
+}
+
+input{
+    border-radius: 30px;
+    padding:15px;
+    border:0;
+    box-shadow:0 0 15px 4px rgba(0,0,0,0.06);
+    margin: 8px;
+    width: 20%;
+    margin-left: 20px;
+}
+
+.inp1{
+    margin-top: 10px;
+}
+
+textarea{
+    width:40%;
+    resize: vertical;
+    padding:20px;
+    border-radius:30px;
+    border:0;
+    box-shadow:0 0 15px 4px rgba(0,0,0,0.06);
+    height:150px;
+    margin: 8px;
+    margin-left: 20px;
+}
+
+.bbb{
+    padding: 10px;
+    border: none;
+    background-color: rgb(187, 224, 93);
+    border-radius: 30px;
+    font-weight: 600;
+    width: 10%;
+    margin: 8px;
+    box-shadow:0 0 15px 4px rgba(0,0,0,0.06);
+    margin-left: 20px;
+}
+

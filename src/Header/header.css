@@ -1,0 +1,13 @@
+.header a{
+    text-decoration: none;
+    color: rgb(0, 176, 189);
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.header{
+    padding: 50px 100px !important; 
+    background-color: rgb(236, 228, 236);
+    list-style-type: none;
+    margin-bottom: 0;
+}
